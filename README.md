@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, my name is Rustam
+# ✌ Hi, my name is Rustam
 
 ### Student of the Polar State University
 
